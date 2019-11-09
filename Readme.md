@@ -8,7 +8,7 @@ Lightweight TextEditor
 
 ## Download
 
-- [Java version](https://github.com/Sharkbyteprojects/SharkWrite/releases/download/3/SharkWrite.jar) need java, on all operation systems
+- [WINDOWS](https://github.com/FreeSoftwareDevlopment/SharkWrite/releases/download/4/SharkWrite.installer.exe) only for windows
 
 ## Screenshots
 
